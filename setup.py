@@ -43,13 +43,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'requests',
-        'calendar',
-        'json',
-        'ssl',
-        'logging',
-        'urllib',
-        're'
+        'requests'
     ],
 
 )
